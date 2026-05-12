@@ -1,19 +1,19 @@
 {
-    "version": "0.1.13",
+    "version": "0.1.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/godaddy/ans-sdk-go/releases/download/v0.1.13/ans-cli_0.1.13_windows_amd64.zip",
+            "url": "https://github.com/godaddy/ans-sdk-go/releases/download/v0.1.14/ans-cli_0.1.14_windows_amd64.zip",
             "bin": [
                 "ans-cli.exe"
             ],
-            "hash": "0e8d4f37c1242c27189f6b7e781fd959a1d38536eb75628da72ca650f8e1eeac"
+            "hash": "ef66ca397af232e7f75691e44ee12c92a349b73f13616affadfadd9a0df24bf1"
         },
         "arm64": {
-            "url": "https://github.com/godaddy/ans-sdk-go/releases/download/v0.1.13/ans-cli_0.1.13_windows_arm64.zip",
+            "url": "https://github.com/godaddy/ans-sdk-go/releases/download/v0.1.14/ans-cli_0.1.14_windows_arm64.zip",
             "bin": [
                 "ans-cli.exe"
             ],
-            "hash": "1ef30aab04c4bd04371133f3703a05dca161a389a3493336cf75b7a7141133c2"
+            "hash": "f850ff69c760a7fecac0d0a55fcf783ebc8893a940aeee9e4eb5925e0ad67f86"
         }
     },
     "homepage": "https://github.com/godaddy/ans-sdk-go",
